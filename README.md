@@ -40,15 +40,22 @@ NVIDIA Deep Learning Institute
 NVIDIA DLI Summer Training Program – Generative AI  
 Information Technology Institute (ITI)
 
-### 🎓 NTI — Machine Learning Summer Training
+🏆 Certifications & Training
 
-<a href="YOUR_NTI_BADGE_URL">
-  <img src="YOUR_NTI_BADGE_IMAGE_URL" width="150">
-</a>
+### 🎓 NTI Summer Training — Machine Learning
 
-**National Telecommunication Institute (NTI)**  
-Machine Learning · 120 Hours · Score: **91.5%**  
-June 28 – July 23, 2026
+<p align="center">
+  <img src="./assets/nti-badge.webp" alt="NTI Badge" width="150">
+</p>
+
+**National Telecommunication Institute (NTI)**
+
+- 🧠 **Machine Learning**
+- 📅 June 28 – July 23, 2026
+- ⏱️ **120 Hours**
+- 💻 Technical: 90 Hours
+- 💼 Freelancing: 30 Hours
+- 🏆 **Score: 91.5%**
 
 
 ---
