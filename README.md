@@ -44,9 +44,6 @@ Information Technology Institute (ITI)
 
 ### 🎓 NTI Summer Training — Machine Learning
 
-<p align="center">
-  <img src="assests/logo.webp" alt="NTI Badge" width="150">
-</p>
 
 **National Telecommunication Institute (NTI)**
 
