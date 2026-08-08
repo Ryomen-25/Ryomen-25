@@ -40,12 +40,22 @@ NVIDIA Deep Learning Institute
 NVIDIA DLI Summer Training Program – Generative AI  
 Information Technology Institute (ITI)
 
----
+<p align="center"> <img src="https://img.shields.io/badge/NTI-Machine%20Learning-0A66C2?style=for-the-badge&logo=python&logoColor=white" alt="NTI Machine Learning"> <img src="https://img.shields.io/badge/Score-91.5%25-success?style=for-the-badge" alt="91.5% Score"> <img src="https://img.shields.io/badge/Training-120%20Hours-orange?style=for-the-badge" alt="120 Hours"> </p>
 
-📂 Featured Repositories
+🎓 NTI Summer Training — Machine Learning
 
-- AI-University-course – Jupyter notebooks and experiments from my AI coursework
-- More AI, automation, and backend projects coming soon.
+National Telecommunication Institute (NTI)
+
+Successfully completed the Machine Learning summer training program.
+
+📅 Duration	⏱️ Training	🏆 Score
+June 28 – July 23, 2026	120 Hours	91.5%
+
+Training Breakdown
+
+💻 Technical Hours: 90 hrs
+💼 Freelancing Hours: 30 hrs
+
 
 ---
 
@@ -59,5 +69,6 @@ My goal is to become a professional AI Engineer specializing in LLM systems, aut
 
 GitHub
 https://github.com/Ryomen-25
+Discord: 742386155722375299
 
 ⭐ Always learning, building, and improving.
