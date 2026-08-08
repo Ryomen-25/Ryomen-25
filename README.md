@@ -67,6 +67,8 @@ My goal is to become a professional AI Engineer specializing in LLM systems, aut
 
 GitHub
 https://github.com/Ryomen-25
-Discord: 742386155722375299
+---
+Discord:
+742386155722375299
 
 ⭐ Always learning, building, and improving.
