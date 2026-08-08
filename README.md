@@ -3,6 +3,12 @@
 Aspiring AI Engineer passionate about building intelligent systems, automation tools, and scalable backend applications.
 
 ---
+## 🤝 Let's Collaborate
+
+I'm always open to collaborating with others on **interesting projects**, building **cool ideas**, and learning from each other.
+
+If you're working on something exciting, feel free to reach out! 🚀
+---
 
 ## 🛠️ Tech Stack
 
@@ -72,3 +78,4 @@ Discord:
 742386155722375299
 
 ⭐ Always learning, building, and improving.
+Open for collabing 
